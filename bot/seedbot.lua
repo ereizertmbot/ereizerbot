@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(95822747},--Sudo users
+    sudo_users = {95822847},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -512,4 +512,3 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
-A
