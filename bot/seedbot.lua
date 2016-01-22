@@ -245,16 +245,16 @@ Our channels
 @teleseedch [English]
 @iranseed [persian]
 ]],
-    help_text_realm = [[
+    راهنما_text_realm = [[
 Realm Commands:
 
-!creategroup [Name]
+درست کردن گروه [اسم گروه]
 Create a group
 
-!createrealm [Name]
+درست کردن ریلم [اسم ریلم]
 Create a realm
 
-!setname [Name]
+عوض کردن اسم [اسم]
 Set realm name
 
 !setabout [GroupID] [Text]
@@ -263,9 +263,8 @@ Set a group's about text
 !setrules [GroupID] [Text]
 Set a group's rules
 
-!lock [GroupID] [setting]
-Lock a group's setting
-
+قفل [ای دی گروه] [تنظیمات]
+Lock a group's s
 !unlock [GroupID] [setting]
 Unock a group's setting
 
